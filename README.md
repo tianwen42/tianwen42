@@ -1,8 +1,5 @@
-### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=tianwen42&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm YangLin</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -12,11 +9,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and GIS and coding stuffs.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Geographic Information System, Computer Vision.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Machine Learning as hobbies/side hustles.
 
 
 
@@ -26,20 +23,20 @@
 
 - 💻 &nbsp; Python | C++ | Matlab | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript 
 
 - 🛢 &nbsp; MySQL | SQLserver
 
-- 🔧 &nbsp; ArcGIS | Git | Markdown | Selenium | 
+- 🔧 &nbsp; ArcGIS | Git | Markdown | Selenium | ENVI
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Latex | Photoshop | Linux
 
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Machine Learning | Firebase | flask
+- 🔧 &nbsp; C++ | GIS | Machine Learning 
 
 <hr>
 
