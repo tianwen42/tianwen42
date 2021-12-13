@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=tianwen42&show_icons=true&count_private=true&hide=prs&theme=onedark)
+![info](https://github-readme-stats.vercel.app/api?username=tianwen42&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
