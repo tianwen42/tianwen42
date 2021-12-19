@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; C++ | GIS | Machine Learning 
+- 🔧 &nbsp; C++ | GIS | Machine Learning | Computer Vision
 
 <hr>
 
