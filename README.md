@@ -7,7 +7,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; 喜欢折腾,不喜欢走寻常路,有时脑洞大开
 
 - 🎓 &nbsp; 学习GIS与计算机科学专业
 
@@ -29,7 +29,7 @@
 
 - 🔧 &nbsp; ArcGIS | Git | Markdown | Selenium | ENVI
 
-- 🖥 &nbsp; Latex | Photoshop | Linux
+- 🖥 &nbsp; Latex | Photoshop | Linux | hexo
 
 
 
