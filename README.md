@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Computer Science and GIS and coding stuffs.
+- 🎓 &nbsp; 学习GIS与计算机科学专业
 
 - 🌱 &nbsp; Learning about Geographic Information System, Computer Vision.
 
