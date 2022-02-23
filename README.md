@@ -37,6 +37,7 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; C++ | GIS | Machine Learning | Computer Vision
+- 🔧 &nbsp; C++从入门到入土
 
 <hr>
 
