@@ -1,4 +1,3 @@
-
 ### Hi there 👋<h2> I'm YangLin</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -24,15 +23,12 @@
 
 
 
-- 💻 &nbsp; Python | C++ | Matlab | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-
-- 🛢 &nbsp; MySQL | SQLserver
-
-- 🔧 &nbsp; ArcGIS | Git | Markdown | Selenium | ENVI
-
-- 🖥 &nbsp; Latex | Photoshop | Linux | hexo
+- 💻 &nbsp; ![GitHub](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) ![GitHub](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)|![GitHub](https://img.shields.io/badge/-C-333333?style=flat&logo=c) Matlab | C | MySQL
+- 🌐 &nbsp; ![GitHub](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)![GitHub](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3) ![GitHub](https://img.shields.io/badge/-CSS-333333?style=flat&logo=JavaScript)
+- 🛢  &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MySQL](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
+- 🔧 &nbsp; ![Markdown](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=Qgis)   | Selenium | ENVI
+- 🖥  &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- &nbsp; Latex | Photoshop | Linux | hexo
 
 
 
