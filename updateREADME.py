@@ -56,9 +56,6 @@ def fetch_blog_entries():
     ]
 
 
-def oneday():
-
-
 if __name__ == '__main__':
     with open('template.md', 'r', encoding='utf-8') as f:
         template = f.read()
