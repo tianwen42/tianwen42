@@ -31,8 +31,7 @@ jobs:
           pip3 install feedparser
           pip3 install requests
           pip3 install lxml
-          pip3 install bs4
-          pip3 install time
+          pip3 install Beautifulsoup4
 
       - name: Update README
         run: |
