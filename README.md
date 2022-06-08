@@ -5,7 +5,7 @@
 
 <h3> 🐱: My latest articles </h3>
 
-- <a href='http://tiawnen42.top/posts/caeb.html' target='_blank'><b>吵闹的互联网</b></a>
+- <a href='http://tiawnen42.top/posts/caeb.html' target='_blank'><b>网络好吵闹</b></a>
 - <a href='http://tiawnen42.top/posts/bd6d.html' target='_blank'><b>算法优化（以斐波那契数列为例）</b></a>
 - <a href='http://tiawnen42.top/posts/9c17.html' target='_blank'><b>力扣2022-04-19</b></a>
 - <a href='http://tiawnen42.top/posts/9857.html' target='_blank'><b>力扣2022-04-16</b></a>
