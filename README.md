@@ -20,7 +20,7 @@
 
 - 🤔 &nbsp; 喜欢折腾,不喜欢走寻常路,有时脑洞大开
 
-- 🎓 &nbsp; 学习 计算机科学与技术 与 GIS
+- 🎓 &nbsp; 学习 GIS 与计算机科学专业
 
 - 🌱 &nbsp; Learning about Geographic Information System, Computer Vision.
 
