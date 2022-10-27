@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
-
 <h3> 🐱: My latest articles </h3>
 
 - <a href='http://tiawnen42.top/posts/fab5.html' target='_blank'><b>热爱生命</b></a>
