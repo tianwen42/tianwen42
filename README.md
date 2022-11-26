@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<h3> 🐱: My latest articles </h3>
-
-- <a href='http://tiawnen42.top/posts/fab5.html' target='_blank'><b>热爱生命</b></a>
-- <a href='http://tiawnen42.top/posts/e5a4.html' target='_blank'><b>致Zhen</b></a>
-- <a href='http://tiawnen42.top/posts/caeb.html' target='_blank'><b>吵闹</b></a>
-- <a href='http://tiawnen42.top/posts/bd6d.html' target='_blank'><b>算法优化（以斐波那契数列为例）</b></a>
-- <a href='http://tiawnen42.top/posts/9c17.html' target='_blank'><b>力扣2022-04-19</b></a>
-- <a href='http://tiawnen42.top/posts/9857.html' target='_blank'><b>力扣2022-04-16</b></a>
-- <a href='http://tiawnen42.top/posts/59d6.html' target='_blank'><b>力扣2022-04-14</b></a>
-
-
 <h3> 👨🏻 About Me </h3>
 
 - 😄 &nbsp; 应该是一个凭兴趣生活的人，我就是我嘛！
