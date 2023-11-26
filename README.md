@@ -3,22 +3,11 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
-<h3> 🐱: My latest articles </h3>
-
-- <a href='http://tiawnen42.top/posts/fab5.html' target='_blank'><b>热爱生命</b></a>
-- <a href='http://tiawnen42.top/posts/9c17.html' target='_blank'><b>力扣2022-04-19</b></a>
-- <a href='http://tiawnen42.top/posts/9857.html' target='_blank'><b>力扣2022-04-16</b></a>
-- <a href='http://tiawnen42.top/posts/59d6.html' target='_blank'><b>力扣2022-04-14</b></a>
-- <a href='http://tiawnen42.top/posts/9b97.html' target='_blank'><b>力扣2022-04-13</b></a>
-- <a href='http://tiawnen42.top/posts/5a16.html' target='_blank'><b>力扣2022-04-11</b></a>
-- <a href='http://tiawnen42.top/posts/7bb.html' target='_blank'><b>力扣2022-04-10-2</b></a>
-
-
 <h3> 👨🏻 About Me </h3>
 
-- 😄 &nbsp; 应该是一个凭兴趣生活的人，我就是我嘛！
+- 😄 &nbsp; 不断探索，向世界提问
 
-- 🤔 &nbsp; 喜欢折腾,不喜欢走寻常路,有时脑洞大开
+- 🤔 &nbsp; 喜欢折腾,不喜欢走寻常路
 
 - 🎓 &nbsp; 学习 GIS 与计算机科学专业
 
