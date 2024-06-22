@@ -25,6 +25,6 @@
 
 - 🔧 &nbsp; GIS | Machine Learning | Heterogeneous platform
 - 🔧 &nbsp; C++ | Go | Rust 
-- 🔧 &nbsp; Docker | Qt | MFC |Tensorflow
+- 🔧 &nbsp; Docker | Qt | MFC | Tensorflow
 
 <hr>
