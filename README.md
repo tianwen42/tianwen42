@@ -23,8 +23,8 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Operating system | Machine Learning | Heterogeneous platform
+- 🔧 &nbsp; GIS | Machine Learning | Heterogeneous platform
 - 🔧 &nbsp; C++ | Go | Rust 
-- 🔧 &nbsp; Docker | Kubernetes | Tensorflow
+- 🔧 &nbsp; Docker | Qt | MFC |Tensorflow
 
 <hr>
