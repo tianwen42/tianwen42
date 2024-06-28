@@ -1,6 +1,16 @@
 ### Hi there 👋
 <h3>Abstract </h3>
 
+<h3> 👨🏻 About Me </h3>
+
+- 🤔 &nbsp;是一个热爱生活的人！
+- 🌱 &nbsp;喜欢折腾，不断探索，向世界提问
+- 💻  I use daily: **.cpp**, **.py**, **.cs** , **.lua**, **.sql**, **IDL**(A language of remote sensing image processing)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🎓 &nbsp;Learning about Geographic Information System, Computer Science.
+- ✍️ &nbsp;Pursuing Machine Learning as hobbies/side hustles.♟
+
+- 📖 I am currently learning **Parallel Computing**
+
 
 
 <h3>🛠 Tech Stack</h3>
@@ -18,23 +28,10 @@
       <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="GIT" /> 
       <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg"/>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gdal/gdal-icon.svg" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
 </p>
-
-
-
-
-<h3> 👨🏻 About Me </h3>
-
-- 🤔 &nbsp;是一个热爱生活的人！
-- 🌱 &nbsp;喜欢折腾，不断探索，向世界提问
-- 🎓 &nbsp;Learning about Geographic Information System, Computer Science.
-- ✍️ &nbsp;Pursuing Machine Learning as hobbies/side hustles.
-
-
 
 <h3>🛠 To Learn</h3>
 
@@ -43,4 +40,3 @@
 - 🔧 &nbsp; Docker | Qt | MFC | Tensorflow
 
 <hr>
-
