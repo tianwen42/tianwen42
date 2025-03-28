@@ -17,15 +17,14 @@
 
 
 
-![skills](https://skillicons.dev/icons?i=cpp,py,cs,c,rust,bash,lua)
+![skills](https://skillicons.dev/icons?i=cpp,py,cs,rust,bash,lua)
 
-![skills](https://skillicons.dev/icons?i=visualstudio,vscode,md,latex,pytorch,nginx,sqlite,githubactions,gtk,opencv)
+![skills](https://skillicons.dev/icons?i=visualstudio,vscode,md,latex,githubactions)
 
 
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; GIS | Machine Learning | Heterogeneous platform
 - 🔧 &nbsp; C++ | Go | Rust 
-- 🔧 &nbsp; Docker | Qt | MFC | Tensorflow
-
+- 🔧 &nbsp; Docker | Qt | MFC 
 <hr>
