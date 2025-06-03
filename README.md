@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp;是一个热爱生活的人！
 - 🌱 &nbsp;喜欢折腾，不断探索，向世界提问
-- 💻  I use daily: **.cpp**, **.py**, **.cs** , **.lua**, **.sql**, **IDL**(A language of remote sensing image processing)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻  I use daily: **.cpp**, **.py**, **.cs** , **.lua**, **.sql**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 &nbsp;Learning about Geographic Information System, Computer Science.
 - ✍️ &nbsp;Pursuing Machine Learning as hobbies/side hustles.♟
 
