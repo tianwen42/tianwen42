@@ -18,6 +18,33 @@ $$RecentBlog$$
 - 做过 C++ 与 Python 相关项目，习惯用工程化思路解决实际问题。
 - 重视 AI 在真实场景中的落地，关注稳定性、可复用性和长期价值。
 
+## 📦 Featured Projects
+
+### 01 · Python 与数据集成 Python & Data Integration
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[RPA-Utils](https://github.com/tianwen42/RPA-Utils)** | 面向 RPA 场景的 Python 通用脚本库，六类开箱即用：浏览器抓取 / Excel 读写 / 文件批处理 / 图片 OCR / 消息推送（邮件 SMTP、企业微信机器人）/ 通用工具。模块化目录 + 全中文函数注释，尽量只依赖标准库 | `Python` `影刀 RPA` |
+| **[DJI_Batch_LUTer](https://github.com/tianwen42/DJI_Batch_LUTer)** | 批量视频处理管线：把大疆全系列（Action / Pocket / Mavic）拍摄的 D-Log / D-Log M 灰片一键还原为 Rec.709，支持滤镜套用、显卡加速与并行导出，本质是一条可扩展的 FFmpeg 任务流水线 | `Python` `FFmpeg` |
+
+### 02 · 工业软件 Industrial Software
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Mu-Monitor](https://github.com/tianwen42/Mu-Monitor)** | Windows 单机工业设备监控与告警上位机。自定义二进制 TCP 协议（Protocol v1 + CRC16 + 粘包/拆包处理）、20 台可独立启停与故障注入的设备模拟器、实时监控、告警生命周期、SQLite 历史存储与事务迁移 | `C++17` `Qt 6` `SQLite` |
+| **[GisWinform](https://github.com/tianwen42/GisWinform)** | 基于 ArcGIS Engine 的桌面 GIS 应用：加载 mxd / shp / gdb / mdb，属性查询与空间查询，附测试数据与可直接运行的编译版本 | `C#` `.NET` `ArcGIS Engine` |
+| **[CAA_Learning](https://github.com/tianwen42/CAA_Learning)** | 达索 CATIA CAA 二次开发学习与实践记录 | `C++` `CATIA CAA` |
+
+<details>
+<summary>其他项目 / More</summary>
+
+- **[web-curriculum-design](https://github.com/tianwen42/web-curriculum-design)** — 《双城之战》主题响应式网页，含雪花、交互反馈与 3D 旋转特效 · [在线预览](https://tianwen42.github.io/web-curriculum-design/) · `JavaScript`
+- **[DB-curriculum-design](https://github.com/tianwen42/DB-curriculum-design)** — SqlServer 数据库课程设计：球队 / 球员 / 裁判 / 比赛安排与积分排名 · `C#`
+
+</details>
+
+---
+
 <h3>🤖 RPA & AI Focus</h3>
 
 - `RPA`: 自动采集、数据清洗、任务编排、定时执行、报表推送。
