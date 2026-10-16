@@ -25,7 +25,7 @@ $$RecentBlog$$
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[RPA-Utils](https://github.com/tianwen42/RPA-Utils)** | RPA 场景的 Python 通用脚本库，六类脚本开箱即用 | `Python` `影刀 RPA` |
-| **[DJI_Batch_LUTer](https://github.com/tianwen42/DJI_Batch_LUTer)** | 大疆 D-Log 灰片批量还原 Rec.709 的视频处理管线 | `Python` `FFmpeg` |
+| **[DJI_Batch_LUTer](https://github.com/tianwen42/DJI_Batch_LUTer)** | 大疆系列 D-Log 灰片批量还原的视频处理工具 | `Python` `FFmpeg` |
 
 ### 02 · 工业软件 Industrial Software
 
