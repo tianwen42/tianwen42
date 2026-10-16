@@ -1,48 +1,54 @@
-# This is a basic workflow to help you get started with Actions
+# 每天抓取 ONE·一个 的「一张图 + 一句话」，写入 one.txt 并提交回仓库
 
 name: update
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
+    # UTC 07:00 = 北京时间 15:00，此时当天内容必定已更新
     - cron: '0 7 * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
+  # 允许在 Actions 页面手动触发
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# 需要写权限才能把抓取结果推回仓库（否则 git push 会 403）
+permissions:
+  contents: write
+
+# 避免定时任务与手动/推送触发同时运行造成冲突
+concurrency:
+  group: update-one
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: SetUp Python
-        uses: actions/setup-python@v2.2.1
-        
-      - name: Install feedparser
-        run: |
-          pip3 install feedparser
-          pip3 install requests
-          pip3 install lxml
-          pip3 install Beautifulsoup4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Update README
+      - name: Install dependencies
+        run: pip install requests lxml
+
+      - name: Fetch ONE daily quote
+        run: python update.py
+
+      - name: Commit and push
         run: |
-          python3 update.py
-          
-      - name: pull And Push
-        run: |-
-          git diff
-          git config --global user.email "yanglin2042@gmail.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          # 用账户的 noreply 别名提交：保证提交计入贡献图，且不暴露真实邮箱
+          git config --global user.email "42083685+tianwen42@users.noreply.github.com"
           git config --global user.name "kuper"
-          git pull
-          git add .
-          git commit -m "update"
+          git pull --rebase
+          git add -A
+          git commit -m "update $(date -u +%Y-%m-%d)"
           git push
