@@ -45,22 +45,6 @@ $$RecentBlog$$
 
 ---
 
-<h3>🤖 RPA & AI Focus</h3>
-
-- `RPA`: 自动采集、数据清洗、任务编排、定时执行、报表推送。
-- `AI`: LLM 应用、文本信息提取、图像理解、智能问答和知识整理。
-- `Workflow`: 打通「采集 -> 处理 -> 分析 -> 输出」的自动化链路。
-
-<h3>🧰 AI Tools I Use</h3>
-
-- 🦾 `OpenClaw`: 用于自动化任务编排与效率增强。
-- 🧠 `Claude`: 用于长文本分析、方案整理与写作辅助。
-- 💬 `ChatGPT`: 用于代码协作、问题排查与快速原型。
-
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-333333?style=flat)
-![Claude](https://img.shields.io/badge/-Claude-333333?style=flat&logo=anthropic)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?style=flat&logo=openai)
-
 <h3>🛠 Tech Stack</h3>
 
 - Core Languages:
@@ -107,9 +91,9 @@ $$RecentBlog$$
 
 <h3>🎯 Learning Roadmap</h3>
 
-- AI Engineering: `LLM Apps` | `CV` | `Model Serving`
-- Backend Engineering: `API Design` | `Async Tasks` | `Deployment`
-- Automation: `RPA Pipelines` | `Monitoring` | `Reliability`
+- AI Engineering: `LLM Function Calling` | `MCP` | `RAG`
+- Backend Engineering: `uv + Ruff` | `FastAPI` | `Pydantic v2`
+- Automation: `Playwright` | `Polars + DuckDB` | `GitHub Actions`
 
 <hr/>
 
