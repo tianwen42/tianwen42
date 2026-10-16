@@ -24,15 +24,15 @@ $$RecentBlog$$
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[RPA-Utils](https://github.com/tianwen42/RPA-Utils)** | 面向 RPA 场景的 Python 通用脚本库，六类开箱即用：浏览器抓取 / Excel 读写 / 文件批处理 / 图片 OCR / 消息推送（邮件 SMTP、企业微信机器人）/ 通用工具。模块化目录 + 全中文函数注释，尽量只依赖标准库 | `Python` `影刀 RPA` |
-| **[DJI_Batch_LUTer](https://github.com/tianwen42/DJI_Batch_LUTer)** | 批量视频处理管线：把大疆全系列（Action / Pocket / Mavic）拍摄的 D-Log / D-Log M 灰片一键还原为 Rec.709，支持滤镜套用、显卡加速与并行导出，本质是一条可扩展的 FFmpeg 任务流水线 | `Python` `FFmpeg` |
+| **[RPA-Utils](https://github.com/tianwen42/RPA-Utils)** | RPA 场景的 Python 通用脚本库，六类脚本开箱即用 | `Python` `影刀 RPA` |
+| **[DJI_Batch_LUTer](https://github.com/tianwen42/DJI_Batch_LUTer)** | 大疆 D-Log 灰片批量还原 Rec.709 的视频处理管线 | `Python` `FFmpeg` |
 
 ### 02 · 工业软件 Industrial Software
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[Mu-Monitor](https://github.com/tianwen42/Mu-Monitor)** | Windows 单机工业设备监控与告警上位机。自定义二进制 TCP 协议（Protocol v1 + CRC16 + 粘包/拆包处理）、20 台可独立启停与故障注入的设备模拟器、实时监控、告警生命周期、SQLite 历史存储与事务迁移 | `C++17` `Qt 6` `SQLite` |
-| **[GisWinform](https://github.com/tianwen42/GisWinform)** | 基于 ArcGIS Engine 的桌面 GIS 应用：加载 mxd / shp / gdb / mdb，属性查询与空间查询，附测试数据与可直接运行的编译版本 | `C#` `.NET` `ArcGIS Engine` |
+| **[Mu-Monitor](https://github.com/tianwen42/Mu-Monitor)** | Windows 单机工业设备监控与告警上位机，含自定义协议解析与设备模拟器 | `C++17` `Qt 6` `SQLite` |
+| **[GisWinform](https://github.com/tianwen42/GisWinform)** | 基于 ArcGIS Engine 的桌面 GIS，支持属性查询与空间查询 | `C#` `.NET` `ArcGIS Engine` |
 | **[CAA_Learning](https://github.com/tianwen42/CAA_Learning)** | 达索 CATIA CAA 二次开发学习与实践记录 | `C++` `CATIA CAA` |
 
 <details>
